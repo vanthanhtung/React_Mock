@@ -1,0 +1,8 @@
+.actionBT{
+    display: flex;
+    justify-content: space-around;
+}
+.subject{
+    display: flex;
+    justify-content: center;
+}
